@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "esp32:esp32:XIAO_ESP32C3",
+    "name": "RFID - Login and secret key for wifi device",
+    "type": "cloud"
+  },
+  "secrets": [],
+  "included_libs": []
+}
